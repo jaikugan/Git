@@ -1,0 +1,8 @@
+Git Commands ;
+
+1) git init (for initializing the git repo)
+2) git add   ( for adding a files into git repo)
+3) git commit -m "message" ( for pusing the code to repo)
+4) git status ( for seeing the current status in local repo )
+5) git remote add orgin "https://github.com/jaikugan/devops-learning.git"  ( for adding remote repo to our local repo)
+6) git push orgin master ( for pushing the code to remote repo )
