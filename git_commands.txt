@@ -8,3 +8,22 @@ Git Commands ;
 6) git push orgin master ( for pushing the code to remote repo )
 7) git clone ( for cloning a repo to local)
 8) git push -u orgin main ( if any error with respect to branches)
+9) git pull orgin master ( for fetching latest files )
+
+Branches 
+
+1) git branch "name of the branch"  for creating branches
+2) git branch -D "name of the branch" for deleting the branch
+3) git checkout (for switching between branches)
+
+Pause Work in Git
+
+1) git stash ( for saving the work without commiting )
+2) git stash pop ( for restoring the work and resume the work)
+
+reverting a commit id:
+
+1) git revert commit id ( will revert the changes )
+2) git checkout commit id ( will show the modifications have happened in that )
+3) git diff commit id commit id ( will show the difference bettween the two commit id )
+
