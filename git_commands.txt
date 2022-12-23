@@ -27,4 +27,5 @@ reverting a commit id:
 2) git checkout commit id ( will show the modifications have happened in that )
 3) git diff commit id commit id ( will show the difference bettween the two commit id )
 
-Git is more powerfull
+Merge
+git checkout branch name (will change the branch)
