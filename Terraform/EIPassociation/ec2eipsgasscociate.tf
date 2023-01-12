@@ -22,8 +22,8 @@ resource "aws_security_group" "allow_tls" {
   }
   provider "aws" {
     region     = "us-east-1"
-    access_key = "AKIATLWRSIYOB5ZVW37X"
-    secret_key = "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"
+    access_key = "AKIATLWRSIYOHZUWJ7NN"
+    secret_key = "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"
 }
 output "finaleip" {
     value = aws_eip.myeip.public_ip
